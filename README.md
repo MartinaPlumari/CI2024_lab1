@@ -4,7 +4,9 @@ First lab of the Computational Intelligence course
 ## Set Cover Optimization Problem
 
 Solution to the Set Cover Optimization Problem based on the Steepest Step RMHC algorithm. I added an adaptive temperature mechanism to the algorithm finding better results especially for the third configuration.
+
 Some other versions of the algorithm were tested but the results were not as good as the ones presented here.
+
 Unfortunately, I was not able to run many tests with the bigger configurations because of the time it took to run the algorithm, and this resulted in not so good performances for the last three configurations.
 
 ## Results
