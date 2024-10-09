@@ -24,4 +24,4 @@ In the following table I report the best result I got for the configuration I se
 
 ## References
 
-I mainly based my work on the theory and the code shown to us during lesson. I also learned by exchanging ideas with my collegue Daniel Bologna.
+I mainly based my work on the theory and the code shown to us during lesson. I also learned by exchanging ideas with my collegue Daniel Bologna (s310582).
